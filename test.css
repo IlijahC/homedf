@@ -1,0 +1,38 @@
+body 
+{
+  background-color: lightblue;
+}
+
+.myDiv 
+{
+  border: 5px outset red;
+  background-color: #7b3680;
+  text-align: center;
+  font-size: 90px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2
+{
+  text-align: center;
+  font-size: 175px;
+}
+
+p
+{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+.foodgroup
+{
+  font-size:
+}

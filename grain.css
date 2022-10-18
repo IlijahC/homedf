@@ -1,0 +1,18 @@
+body 
+{
+  background-color: #bfa165;
+}
+
+
+p
+{
+  text-align: center;
+  font-size: 40px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
